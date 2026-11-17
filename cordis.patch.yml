@@ -1,0 +1,6 @@
+# dsh-web-login: 用账号密码登录 DSH Web，替代每次复制启动 token。
+# Host 半负责登录页、账号校验与 /dsh-login 接口；Client 半在
+# 设置页贡献「Web 登录」分区。
+- insert:
+    - id: dsh-web-login
+      name: 'dsh-web-login'

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Web login",
+    "description": "Sign in to the DSH Web GUI with a username and password instead of the launch-token URL. Change the single account and password in Settings."
+  }
+}

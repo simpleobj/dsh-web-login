@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="dshwl-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7fd6"/>
+      <stop offset="1" stop-color="#14509e"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#dshwl-bg)"/>
+  <path d="M20 29v-4.5a12 12 0 0 1 24 0V29" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <rect x="15" y="28" width="34" height="24" rx="7" fill="#ffffff"/>
+  <circle cx="32" cy="38" r="4" fill="#14509e"/>
+  <path d="M32 40.5v6" stroke="#14509e" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Web 登录",
+    "description": "用账号密码登录 DSH Web 界面，不再需要复制启动 token 链接；可在设置中修改唯一的账号与密码。"
+  }
+}
